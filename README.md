@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil ❤
 
-<!--
-**16IMCC/16IMCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Isadora**
 
-Here are some ideas to get you started:
+-estou estudando [Alura]_(https:www.alura.com.br)
+-estou me desenvolvendo na linguagem Javascript
+utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce entra em contato comigo  📫
+
+00001097143193sp@al.educacao.sp.gov.br
+
+
+
+![](https://media.tenor.com/zUCNukL3ZroAAAAM/maria-joaquina-olhando.gif)
